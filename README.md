@@ -35,7 +35,6 @@ Interactive Google Colab notebooks for training, prediction, and visualization w
 │   ├── pachong.py          # Web scraping utilities
 │   ├── rmsf.py             # RMSF calculation
 │   ├── test.py             # Testing utilities
-│   ├── debug.py            # Debugging utilities
 │   └── ATLAS/              # ATLAS dataset validation experiments
 │       ├── infer.py        # Inference script for ATLAS data
 │       ├── plot.py         # Plotting utilities
